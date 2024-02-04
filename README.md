@@ -16,9 +16,6 @@ Terraform is an open-source IaC tool by HashiCorp that allows you to define and 
 1. **Plan:** Execute **terraform plan** to preview changes before applying them.
 1. **Apply:** Finally, run **terraform apply** to bring your infrastructure to the desired state.
 
-**🌐 Real-World Application:**
-
-Recently, I used Terraform to set up an AWS VPC with multiple EC2 instances and an RDS database. The ease of scalability and reproducibility blew my mind! 💥
 
 **🚀 Why Terraform?**
 
